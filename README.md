@@ -3,6 +3,8 @@
 AlexNet 논문을 읽고 PyTorch로 직접 구현한 프로젝트입니다.
 CIFAR-10 데이터셋으로 학습하여 이미지 분류를 수행합니다.
 
+**웹 데모:** [Hugging Face Space](https://huggingface.co/spaces/9dadada/alexnet-demo)
+
 ## 논문 리뷰
 
 논문 정리는 [여기](https://github.com/9dadada/AI-study/blob/main/papers/Alexnet/alexnet_review.md)에서 확인할 수 있습니다.
