@@ -20,7 +20,10 @@ python train.py
 
 ## 학습 결과
 
-(학습 결과 추가 예정)
+- CIFAR-10 데이터셋, 30 에폭 학습
+- Best Test Accuracy: **약 85%**
+
+![training_log](results/training_log.png)
 
 ## Reference
 
